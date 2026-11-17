@@ -1,0 +1,14 @@
+# Ignore object files, core dumps, and editor swap files
+*.o
+*.out
+*.swp
+*.core
+core
+
+# Ignore specific compiled binaries for weeks 1-6 and homeworks
+a.out
+hw1
+hw2
+hw3
+hw4
+ls
